@@ -1,0 +1,22 @@
+body {
+  background: white;
+  font-size: 13px;
+  margin: 10px 10px;
+}
+
+h1 {
+    background-color: black;
+    text-align: center;
+    color: gold;
+}
+
+div {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: lightgray;
+}
+
+p {
+    background-color: yellow;
+}
